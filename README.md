@@ -1,4 +1,4 @@
-# GeoLocationTool
+# GeoLocationTool <a href="https://inception.menu/Discord/"><img src="https://discordapp.com/api/guilds/407992826740211715/embed.png?style=shield"></a>
 A Simple XML &amp; C# IP GeolocatioL Tool
 
 
